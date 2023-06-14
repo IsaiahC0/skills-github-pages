@@ -1,10 +1,20 @@
 
 # Week 1 (June 12 - 16)
-|Completed Task | In Progress Tasks | Backburner | Questions/Concerns/Comments | Task Staus Updated? |
---- | --- | --- | --- | --- |
-| Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown | Communication Using Markdown | N/A | N/A | YES |||
+Completed Task 
+  - Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown
+
+In Progress Tasks Backburner
+  - N/A
+
+Questions/Concerns/Comments
+  - N/A
+
+Task Staus Updated? 
+  - YES
+
 
 # Updates
+
 |Project | Task | % Completion | Expected Completion Date |
 --- | --- | --- | --- |
 | GitHub | Introduction to GitHub Course | 100% | 6/13 |||
