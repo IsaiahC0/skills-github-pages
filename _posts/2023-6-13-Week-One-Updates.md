@@ -1,7 +1,7 @@
 
 # Week 1 (June 12 - 16)
 Completed Task 
-  - Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown, Downloaded Python
+  - Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown, Downloaded Python, Created Cognitive Class Account, Created HackerRank Account, Enrolled in Python for Data Science, Created Windscribe Account
 
 In Progress Tasks 
   - Installing Python
