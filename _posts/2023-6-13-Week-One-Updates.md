@@ -24,7 +24,7 @@ Task Staus Updated?
 | GitHub | GitHub Page Course | 100% | 6/13 |||
 | GitHub | Communicate Using Markdown | 100% | 6/13 |||
 | Python | Installation of Python, Python Packages, and Jupyter Notebook | 100% | 6/15 |||
-| Python | Python for Data Science Course | 0 | ? |||
+| Python | Python for Data Science Course | 20% | ? |||
 | Python | HackerRank Assignments | 0 | ? |||
 | Project | ChatGPT Images Data Set Creation | 0 | ? |||
 | Project | Craiyon Data Set Creation | 0 | ? |||
