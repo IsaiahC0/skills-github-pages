@@ -1,10 +1,10 @@
 
 # Week 1 (June 12 - 16)
 Completed Task 
-  - Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown, Downloaded Python, Created Cognitive Class Account, Created HackerRank Account, Enrolled in Python for Data Science, Created Windscribe Account, Installed Windscribe Plugin
+  - Introduction to GitHub Course, GitHub Page Course, Communicate Using Markdown, Downloaded Python, Created Cognitive Class Account, Created HackerRank Account, Enrolled in Python for Data Science, Created Windscribe Account, Installed Windscribe Plugin, Installed All Python Packages, Cloned Repo
 
 In Progress Tasks 
-  - Read HICSS24_VisualAnalogy_DRAFT, Clone Repo, Installing Python Packages??
+  - Read HICSS24_VisualAnalogy_DRAFT, Python Cognitive Class
 
 Backburner
   - N/A
