@@ -1,13 +1,13 @@
 
 # Week 2 (June 20 - 23)
 Completed Task 
-  - 
+  - Analogies 100 - 120 Craiyon
 
 In Progress Tasks 
-  - Python Cognitive Class
+  - Analogies 121 - 140 Craiyon
 
 Backburner
-  - N/A
+  - Hacker
 
 Questions/Concerns/Comments
   - N/A
