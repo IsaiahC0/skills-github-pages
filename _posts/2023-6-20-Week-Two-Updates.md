@@ -1,14 +1,13 @@
 
 # Week 2 (June 20 - 23)
 Completed Task 
-  - Analogies 100 - 120 Craiyon
+  - Analogies 100 - 140 Craiyon
 
 In Progress Tasks 
-  - Analogies 121 - 140 Craiyon
-
-Backburner
   - Python HackerRank Task #1
 
+Backburner
+  - 
 Questions/Concerns/Comments
   - N/A
 
@@ -27,7 +26,7 @@ Task Staus Updated?
 | Python | Python for Data Science Course | 20% | ? |||
 | Python | HackerRank Assignments | 0 | ? |||
 | Project | ChatGPT Images Data Set Creation | 0 | ? |||
-| Project | Craiyon Data Set Creation | 20% | ? |||
+| Project | Craiyon Data Set Creation | 40% | ? |||
 | Project | Human Factors Evaluation | 0 | ? |||
 | Project | Final Poster | 0 | ? |||
 | Project | Final Paper | 0 | ? |||
