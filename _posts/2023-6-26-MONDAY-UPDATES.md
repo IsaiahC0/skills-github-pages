@@ -2,7 +2,8 @@
 # Monday (June 26)
 Completed Task 
   - Analogies 140-157 Craiyon
-  - Scheduled 4 meetings for this week. Waiting to hear back from Mr. Osterloh 
+  - Scheduled 4 meetings for this week. Waiting to hear back from Mr. Osterloh
+  - Interviewed Justin Koester
 
 In Progress Tasks 
   - Python HackerRank Task #1
