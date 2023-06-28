@@ -27,7 +27,7 @@ Task Staus Updated?
 | Python | Python for Data Science Course | 20% | ? |||
 | Python | HackerRank Assignments | 0 | ? |||
 | Project | ChatGPT Images Data Set Creation | 0 | ? |||
-| Project | Craiyon Data Set Creation | 57% | ? |||
+| Project | Craiyon Data Set Creation | 70% | ? |||
 | Project | Human Factors Evaluation | 0 | ? |||
 | Project | Final Poster | 0 | ? |||
 | Project | Final Paper | 0 | ? |||
