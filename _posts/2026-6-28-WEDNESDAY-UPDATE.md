@@ -1,7 +1,7 @@
 
 # Wednesday (June 28)
 Completed Task 
-  - Completed Analogies 171 -  on Craiyon
+  - Completed Analogies 171 - 182 on Craiyon
 
 In Progress Tasks 
   - Python HackerRank #1
