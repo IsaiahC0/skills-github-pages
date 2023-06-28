@@ -3,7 +3,7 @@
 Completed Task 
   - Professional Development Seriers; Resume and Interviewing Skills
   - Talked to my mentor Dr. Camberos about AFRL and AIAA. 
-  - Completed Analogies 
+  - Completed Analogies 157 - 170 on Craiyon
 
 In Progress Tasks 
   - Python HackerRank #1
