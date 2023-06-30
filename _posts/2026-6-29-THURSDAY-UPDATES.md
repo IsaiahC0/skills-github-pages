@@ -1,7 +1,9 @@
 
 # Thursday (June 29)
 Completed Task 
-  - Completed Analogies 183 -  on Craiyon
+  - Visited UD labs (Electrical and Computer Engineering
+  - Met Dr.Camberos For Lunch
+  -  Toured new building at the base (Focus on sounds/frequencies)
 
 In Progress Tasks 
   - Python HackerRank #1
