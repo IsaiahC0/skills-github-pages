@@ -1,7 +1,7 @@
 
 # Friday (June 30)
 Completed Task 
-  - Completed Analogies 183 -  on Craiyon
+  - Completed Analogies 183 - 192 on Craiyon
 
 In Progress Tasks 
   - Python HackerRank #1
@@ -27,7 +27,7 @@ Task Staus Updated?
 | Python | Python for Data Science Course | 20% | ? |||
 | Python | HackerRank Assignments | 0 | ? |||
 | Project | ChatGPT Images Data Set Creation | 0 | ? |||
-| Project | Craiyon Data Set Creation | 70% | ? |||
+| Project | Craiyon Data Set Creation | 90% | ? |||
 | Project | Human Factors Evaluation | 0 | ? |||
 | Project | Final Poster | 0 | ? |||
 | Project | Final Paper | 0 | ? |||
