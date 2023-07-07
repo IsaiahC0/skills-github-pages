@@ -1,5 +1,5 @@
 
-# Friday (June 30)
+# THURSDAY (July 6)
 Completed Task 
   - Started Generating Images for ChatGPT
 
