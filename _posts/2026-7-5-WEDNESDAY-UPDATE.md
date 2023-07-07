@@ -1,5 +1,5 @@
 
-# Friday (June 30)
+# Wednesday (July 5)
 Completed Task 
   - Completed Analogies 192 - 198 on Craiyon
 
