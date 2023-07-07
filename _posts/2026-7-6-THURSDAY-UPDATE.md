@@ -3,6 +3,7 @@
 Completed Task 
   - Started Generating Images for ChatGPT
   - Interviewed Edwin Glaubitz
+
 In Progress Tasks 
   - Python HackerRank #1
   - 
