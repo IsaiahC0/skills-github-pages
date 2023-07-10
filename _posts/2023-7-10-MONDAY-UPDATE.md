@@ -1,7 +1,8 @@
 
 # Monday (July 10)
 Completed Task 
-  - Completed Analogies 112- on ChatGPT
+  - Completed Analogies 112 - 116 on ChatGPT
+  - Interviewed Donald Seaborn
   
 In Progress Tasks 
   - Python HackerRank #1
