@@ -1,7 +1,7 @@
 
 # Thursday (July 13)
 Completed Task 
-  - Completed Analogies 125-129 on ChatGPT
+  - Completed Analogies 127-129 on ChatGPT
   -  Working On Scheduling Meeting With Last Engineer
   
 In Progress Tasks 
